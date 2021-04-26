@@ -1,0 +1,35 @@
+#footer_background{
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: black;
+}
+
+#footer_title{
+    font-size:200%;
+    font-weight:bold;
+    font-family: arial;
+    text-align: center;
+    color:white;
+    margin: 0;
+}
+
+#footer_subtitle{
+    font-size:150%;
+    font-weight:normal;
+    font-family: arial;
+    text-align: center;
+    color:white;
+    padding-top: 5%;
+    margin: 0;
+}
+
+#footer_contents{
+    font-size:100%;
+    font-weight:normal;
+    font-family: arial;
+    text-align: center;
+    color:white;
+    margin: 0;
+}

@@ -1,0 +1,36 @@
+#About_background{
+    padding: 18%;
+    background-image: url(./about_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#About_title{
+    padding-bottom: 5%;
+    font-family:arial;
+    font-size: 350%;
+    font-weight: bold;
+    text-align: left;
+    color: black;
+    margin: 0;
+}
+
+#About_subtitle{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    font-family:arial;
+    font-size: 250%;
+    font-weight: bold;
+    text-align: left;
+    color: black;
+    margin: 0;
+}
+
+#About_contents{
+    text-align: left;
+    font-family:arial;
+    color: white;
+    padding:1%;
+}
